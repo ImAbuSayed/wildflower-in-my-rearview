@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Wildflower in My Rearview
+
+This log tracks the cryptographic history and versioning for the song **Wildflower in My Rearview** (wildflower-in-my-rearview).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T15:10:57.707518 | `v1` | `cc92f96dab09399bf2c3e3a906d5ed3cde5c050f66c06dab60f900d4343844bb` | `ce9d807ca820c7d75d97f7d6e04b0cb1086bca8a0172f8cecb8c565c69df9d73` | `2026-05-23_wildflower-in-my-rearview-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

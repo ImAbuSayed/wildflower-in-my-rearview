@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wildflower-in-my-rearview/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Wildflower in My Rearview](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wildflower-in-my-rearview/) |
+| **Get License** | [Secure Licensing Rights for Wildflower in My Rearview](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wildflower-in-my-rearview/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cc92f96dab09399bf2c3e3a906d5ed3cde5c050f66c06dab60f900d4343844bb` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
