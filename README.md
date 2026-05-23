@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wildflower-in-my-rearview/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Wildflower in My Rearview](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wildflower-in-my-rearview/) |
+| **Get License** | [Obtain a Music License for Wildflower in My Rearview](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wildflower-in-my-rearview/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> You're a wildflower blooming in my rearview
+> A midnight dream that I'm driving into
+> Got that slow-burn heat in your quiet smile
+> Make me want to pull over and stay a while
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
